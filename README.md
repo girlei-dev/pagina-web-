@@ -27,7 +27,7 @@
 	
 	    <h1>ola meu nome e girlei webdesgner</h1>
 	    <p id="teste">desevolvedor web na enpresa g-code softwere brasil</p>
-	    <img src="github.jpg">
+	    <img src="https://user-images.githubusercontent.com/98410796/165509684-53599805-8258-46fc-91c2-b404d74149d2.jpeg">
 	    <p id="primeira">qrcode link do meu github</p>
 	    <p>tecnologia que eu estou aprendedo</p>
 	<ol>
