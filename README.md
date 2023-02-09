@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="utf-8">
@@ -16,7 +16,7 @@
     text-align:center;
     font-size:40px;
     }
-    #teste{background:red; 
+    #teste{background:yellow; 
     font-size:40px;
     text-align:center;}
 	</style>
