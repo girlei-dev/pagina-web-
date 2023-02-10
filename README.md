@@ -27,6 +27,8 @@
 	    <h1>ola meu nome e girlei webdesgner</h1>
 	    <p id="teste">desevolvedor web na enpresa g-code softwere brasil</p>
 	    <img src="https://user-images.githubusercontent.com/98410796/165509684-53599805-8258-46fc-91c2-b404d74149d2.jpeg">
+            <p>pagina de desenvolvimento de codigo</p>
+        <img src="https://www.sololearn.com/Profile/4599396/">
 	    <p id="primeira">qrcode link do meu github</p>
              <img src="https://user-images.githubusercontent.com/98410796/165513199-83a8b641-2229-47de-a724-4fb3d265b402.png">
 	    <p>tecnologia que eu estou aprendedo</p>
