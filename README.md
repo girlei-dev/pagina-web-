@@ -33,7 +33,7 @@
              <img src="https://user-images.githubusercontent.com/98410796/165513199-83a8b641-2229-47de-a724-4fb3d265b402.png">
                 
 	    <p>tecnologia que eu estou aprendedo</p>
-        <img src="https://www.sololearn.com/Profile/4599396/?ref=app">
+        <img src="https://raw.githubusercontent.com/girlei-dev/pagina-web-/main/foto.png.jpg">
             
         
 	<ol>
