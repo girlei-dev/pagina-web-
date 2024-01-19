@@ -34,6 +34,7 @@
 		
             <p>meu certificado</p>
         <img src="https://www.sololearn.com/Certificate/1014-4599396/pdf/">
+            <img src="https://https://api2.sololearn.com/v2/certificates/CT-33VYMLRX/image/jpg">
 	    <p id="primeira">qrcode link do meu github</p>
              <img src="https://user-images.githubusercontent.com/98410796/165513199-83a8b641-2229-47de-a724-4fb3d265b402.png">
                 
