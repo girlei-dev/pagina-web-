@@ -42,6 +42,7 @@
             
         
 	<ol>
+       <li>projetos eletricos</li>
 	   <li>PYTHON</li>
 	   <li>HTML</li>
 	   <li>CSS</li>
