@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html lang="pt-br">
      <head>
      <meta charset="utf-8">
@@ -8,7 +8,7 @@
      <head>
      <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ADEGA-ALEGRIA</title>
+     <title>ADEGA-ALEGRIA</title>
      <style type="text/css">
           body{background-color:black;}
           h1{color:aliceblue;
