@@ -3,7 +3,6 @@
      <head>
      <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <head>
      <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <title>ADEGA-ALEGRIA</title>
@@ -37,8 +36,8 @@
 </head>
 <body>
       <h1>ADEGA-ALEGRIA</h1>
-  <p>TELEFONE-11983193866</p>
-  <p>FALAR COM GIRLEI</p>
+      <p>TELEFONE-11983193866</p>
+      <p>FALAR COM GIRLEI</p>
            <div class="primeira">
                 <img src="https://thumbs.dreamstime.com/b/bebidas-da-cerveja-39754716.jpg">
            </div> 
