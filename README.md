@@ -36,7 +36,7 @@
 </head>
 <body>
       <h1>ADEGA-ALEGRIA</h1>
-      <p>TELEFONE-11983193866</p>
+      <p>TELEFONE-1178906754</p>
       <p>FALAR COM GIRLEI</p>
            <div class="primeira">
                 <img src="https://thumbs.dreamstime.com/b/bebidas-da-cerveja-39754716.jpg">
